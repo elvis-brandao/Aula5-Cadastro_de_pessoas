@@ -1,0 +1,11 @@
+{
+  "name": "cadastro-de-pessoas",
+  "version": "1.0.0",
+  "description": "Um cadastro de pessoas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elvis Sousa Brandão",
+  "license": "ISC"
+}
